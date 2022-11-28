@@ -6,7 +6,7 @@ License         : AGPL-3.0 license
 
 Version         : 2.0.1
 
-Thanks to       : AwfulPelican82
+Thanks to       : Penumbra.
 
 
 Sends any amount of emails to a specified email address. 
